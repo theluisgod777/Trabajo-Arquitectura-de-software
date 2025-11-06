@@ -14,6 +14,6 @@ El diagrama visualiza la **idea general del sistema** y los **componentes princi
 ---
 
 ## Este trabajo fue realizado por:
-Luis Alberto Valencia Causil.
-Johan camilo gomez taborda.
+- **Luis Alberto Valencia Causil**  
+- **Johan Camilo Gómez Taborda**
 ---
