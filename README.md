@@ -1,8 +1,12 @@
-# Trabajo de arquitectura de software
-[Ver diagrama Excalidraw desplegado]([./excalidraw/arquitectura_software.excalidraw](https://excalidraw.com/#json=hPxvzGUqxrw4hn3uzH_OG,LoZRWDW4Ur5cDPvmC_eZZg))
+# 🏗️ Trabajo de Arquitectura de Software
+
+[🔗 Ver diagrama en Excalidraw](https://excalidraw.com/#json=hPxvzGUqxrw4hn3uzH_OG,LoZRWDW4Ur5cDPvmC_eZZg)
+
 ---
-Este trabajo fue realizado por 
-Luis Alberto Valencia Causil
-Johan camilo gomez taborda 
----
-en el repositorio esta la estructura con los archivos "el coco" de la tarea realizada con Excalidraw con una idea de lo que tenemos planeado 
+
+##  Descripción del proyecto
+
+Este repositorio contiene el trabajo realizado para la asignatura de **Arquitectura de Software**.  
+Incluye un **diagrama diseñado en Excalidraw** y varios archivos **“.coco”**, los cuales representan ejemplos y demostraciones de la estructura planteada en el diseño.
+
+El diagrama visualiza la **idea general del sistema** y los **componentes principales** que se planean desarrollar.
