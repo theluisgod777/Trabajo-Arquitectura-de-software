@@ -10,3 +10,10 @@ Este repositorio contiene el trabajo realizado para la asignatura de **Arquitect
 Incluye un **diagrama diseñado en Excalidraw** y varios archivos **“.coco”**, los cuales representan ejemplos y demostraciones de la estructura planteada en el diseño.
 
 El diagrama visualiza la **idea general del sistema** y los **componentes principales** que se planean desarrollar.
+
+---
+
+## Este trabajo fue realizado por:
+Luis Alberto Valencia Causil 
+Johan camilo gomez taborda
+---
